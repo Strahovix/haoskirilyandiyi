@@ -1,0 +1,92 @@
+h1{
+ font-family: "Splash", cursive;
+  font-weight: 400;
+  font-style: normal;
+
+}
+h2{
+  font-family: "Rubik Doodle Shadow", system-ui;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+#t1{
+	font-size: 100px;
+	padding:40px;
+	border: 2px ridge blue;
+	margin: 100px; 
+	box-shadow: 6px 5px 3px green;
+	text-shadow: 6px 5px 2px
+}
+h3{
+  font-family: "Stick", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.garden{
+	background-color:violet;
+	
+}
+h4{
+  font-family: "Micro 5 Charted", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h5{
+  font-family: "Rubik Doodle Triangles", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+body{
+	background-color: black;
+}
+.tlo{
+	background-color: violet;
+}
+h6{
+  font-family: "Frijole", system-ui;
+  font-weight: 400px;
+  font-style: normal;
+}
+
+
+.iuh {
+  font-family: "Honk", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:
+    "MORF" 15,
+    "SHLN" 50;
+
+	font-size:10cm;
+	transform: rotateX(70deg) rotateY(-45deg) rotateZ(45deg);
+}
+.fu{
+	width: 20px;
+	height: 20px;
+	background-color: blue;
+	transform: translate(300px, 200px) scale(1.0) rotate(45deg) skew(10deg,25deg);
+	transition: width 3s, height 3s, transform 2s;
+}
+.fu:hover{
+	width:30px;
+	height: 30px;
+	transform:rotate(45deg);}
+h7{
+  font-family: "Rubik Moonrocks", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+h8{
+  font-family: "Rubik Maze", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+h9{
+  font-family: "Julius Sans One", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
